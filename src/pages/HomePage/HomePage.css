@@ -1,0 +1,12 @@
+.homepage-container {
+    margin: 30px auto; 
+  }
+
+.homepage-headline{
+    display: flex;
+    justify-content: center;
+    font-weight: 500;
+    font-size: 2rem;
+    margin-bottom: 25px;
+}  
+  
